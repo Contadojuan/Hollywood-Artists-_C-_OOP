@@ -1,0 +1,7 @@
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\bin\Debug\HollywoodArtistas.exe.config
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\bin\Debug\HollywoodArtistas.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\bin\Debug\HollywoodArtistas.pdb
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\obj\Debug\HollywoodArtistas.csprojAssemblyReference.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\obj\Debug\HollywoodArtistas.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\obj\Debug\HollywoodArtistas.exe
+C:\Users\juanp\Desktop\Aulas C# - Udemy\Parte 3\HollywoodArtistas\HollywoodArtistas\obj\Debug\HollywoodArtistas.pdb
